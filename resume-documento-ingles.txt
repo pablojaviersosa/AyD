@@ -1,0 +1,6 @@
+# Que son las ER?
+## 2 principios:
+        * Si vamos a crear un sitema de 0, es importante describir el problema a partir de soluciones separadas (desvincular).
+        * En la mayoria de los sistemas esas soluciones son imposibles de llevar en la practica.
+## Descpomposicion del problema:
+   
